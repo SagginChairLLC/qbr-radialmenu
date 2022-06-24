@@ -1,13 +1,17 @@
 # CONVERTED SCRIPT
 https://github.com/qbcore-framework/qb-radialmenu
 
+Updated by Andyuk, -
+First Converted by SagginChair#2225
 
-# Converted by SagginChair#2225
-
-Saggin's Scripts 
+To use PRESS F6
 
 
-https://discord.gg/jcKENQ6edp
+So ive added the updated images, and menus I felt would be helpful for fivem, menu of them dont work yet. just place markers, see below
 
--Tons of Converted FiveM Scripts
--All Converted Scripts are FREE!
+(in the config look for 'add-code-here', if you want to help make stuff work)
+
+
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/G9wV2wM/rm.png" alt="rm" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>pic upload</a><br />
+
